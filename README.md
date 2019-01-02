@@ -96,4 +96,21 @@ The simulator visualizes the particle filter:
 
 
 
+# Further Reading
+If you are interested in the topic you might want to check:
 
+* [Sebastian's article about the particle filter in robotics](http://robots.stanford.edu/papers/thrun.pf-in-robotics-uai02.pdf)
+* [Parallel resampling in the particle filter](https://arxiv.org/abs/1301.4019)
+* [Particle filters](https://arxiv.org/pdf/1309.7807)
+* [An Introduction to Particle Filtering](https://www.lancaster.ac.uk/pg/turnerl/PartileFiltering.pdf)
+* [A Tutorial on Particle Filtering and Smoothing: Fifteen years later](https://www.stats.ox.ac.uk/~doucet/doucet_johansen_tutorialPF2011.pdf)
+* [Particle Filtering for Tracking and Localization](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwig7OnCqr_bAhVBoRQKHc4MAIAQFghoMAM&url=https%3A%2F%2Fwww.cc.gatech.edu%2F~dellaert%2F07F-Robotics%2FSchedule_files%2F11-ParticleFilters.ppt.pdf&usg=AOvVaw3y6Al-uV6Wmd3C7CQuby8h)
+* [Particle Filters and Their Applications](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwig7OnCqr_bAhVBoRQKHc4MAIAQFgiaATAI&url=https%3A%2F%2Focw.mit.edu%2Fcourses%2Faeronautics-and-astronautics%2F16-412j-cognitive-robotics-spring-2005%2Fprojects%2Fa5_hso_plnvl_mlr.pdf&usg=AOvVaw0fpqaLVJtUHzGjbrAygkUi)
+
+You can study more on random number generation in C++ by refering to:
+
+* [Random Number Generation in C++11](https://isocpp.org/files/papers/n3551.pdf)
+* [Rand](http://www.cplusplus.com/reference/cstdlib/rand/)
+* [C++ TUTORIAL - RANDOM NUMBERS](http://www.bogotobogo.com/cplusplus/RandomNumbers.php)
+* [How to generate a random number in C++?](https://stackoverflow.com/questions/13445688/how-to-generate-a-random-number-in-c)
+* [THE C++ RANDOM NUMBER GENERATOR](http://www.dummies.com/programming/cpp/the-c-random-number-generator/)
